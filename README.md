@@ -1,4 +1,4 @@
-# A quick introduction to machine learning
+# A quick introduction to machine learning 2023 update
 
 **Author:** [Leonardo Uieda](https://www.leouieda.com/)
     
